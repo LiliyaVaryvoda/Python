@@ -4,5 +4,3 @@ def factorial(n):
     else:
         return 1
 
-n=5
-print factorial(5)
